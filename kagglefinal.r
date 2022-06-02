@@ -4,8 +4,8 @@ output: html_document
 ---
 #Loading the data \
 #```{r}
-train = read.csv('/Users/amalyajohnson/Downloads/stats-202-fa21/train.csv')
-test = read.csv('/Users/amalyajohnson/Downloads/stats-202-fa21/test.csv')
+train = read.csv('/stats-202-fa21/train.csv')
+test = read.csv('/stats-202-fa21/test.csv')
 #```
 
 #Installing packages\
