@@ -5,7 +5,7 @@ Kaggle project from Stanford STATS 202: Data Mining and Analysis. Authored with 
 
 Human activity recognition (HAR) is a field of study that utilizes sensor data to classify daily human activities. The application of HAR has various applications in disciplines such as health research, medical security, personal safety, living assistance, and so on. This project involves using smartphone sensor data to identify 12 daily activities, namely: Standing (stand); Sitting (sit); Laying (lay); Transitions between the aforementioned (X_to_Y); Walking (walk); Walking downstairs (down); and Walking upstairs (up). 
 The features selected for this database come from the smartphone’s accelerometer and gyroscope 3-axial raw signals. These time-domain signals were captured at a constant rate of 50 Hz and subsequently filtered to remove the noise in the data. Subsequently, the features of the time domain signals were extracted as features for the database. There are a total of 10929 observations, along with 561 different features; the observations are split into 70% training data and 30% test data. The final model is trained using the training data available, and the objective of the model is to classify the associated activity, given the predictor inputs. The remaining test data is used to assess the quality of the model.
-This project was conducted entirely by the Liberman team and has not received any previous academic credit at this or any other academic institution. The team has not collaborated with any other teams.
+This project was conducted entirely by the Amalya Johnson and Shu Xian Nian. 
 
 #### Modeling Approach 
 
