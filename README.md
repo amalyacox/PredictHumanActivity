@@ -1,4 +1,4 @@
-# STATS_202
+# STATS_202 Final Project: Predicting Human Activity Data 
 Kaggle project from Stanford STATS 202: Data Mining and Analysis. Authored with Shu Xian Nian. 
 
 #### Project Background 
