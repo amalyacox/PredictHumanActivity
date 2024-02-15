@@ -2,6 +2,8 @@
 Kaggle project from Stanford STATS 202: Data Mining and Analysis. Initial analysis and R code authored with Shu Xian Nian. 
 Edit Fall 2023: Jupyter Notebook and Scikit-Learn + TensorFlow analysis conducted by Amalya Johnson. 
 
+Data can be found here: https://www.kaggle.com/competitions/stats-202-fa21/data?select=sample.csv
+
 
 #### Project Background 
 
