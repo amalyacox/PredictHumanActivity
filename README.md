@@ -1,6 +1,6 @@
 # STATS_202 Final Project: Predicting Human Activity Data 
 Kaggle project from Stanford STATS 202: Data Mining and Analysis. Initial analysis and R code authored with Shu Xian Nian. 
-Edit Fall 2023: Jupyter Notebook and Scikit-Learn + TensorFlow analysis conducte by Amalya Johnson. 
+Edit Fall 2023: Jupyter Notebook and Scikit-Learn + TensorFlow analysis conducted by Amalya Johnson. 
 
 
 #### Project Background 
